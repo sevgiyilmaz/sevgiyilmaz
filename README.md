@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevgi</h1>
+
 - 🌱 I’m currently learning **C#, .Net, Microservices**
 
 - 📝 I regularly write articles on [https://medium.com/@sevgiyilmaz](https://medium.com/@sevgiyilmaz)
