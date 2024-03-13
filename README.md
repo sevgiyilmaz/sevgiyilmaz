@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **C#, .Net, Microservices**
 
-- 📝 I regularly write articles on [https://medium.com/@sevgiyilmaz](https://medium.com/@sevgiyilmaz)
+- 📝 I regularly write blogs about Cyber Security on [https://medium.com/@sevgiyilmaz](https://medium.com/@sevgiyilmaz)
 
 - 💬 Ask me about **Cyber Security**
 
