@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sevgi</h1>
 
 - 🌱 I’m currently learning **C#, .Net, Microservices**
+  
+- 🔭 I’m currently working on **TÜBİTAK supported project in telecommunication that involves developing a voice integrated and secure chatbot**
 
 - 📝 I regularly write blogs on [https://medium.com/@sevgiyilmaz](https://medium.com/@sevgiyilmaz)
 
