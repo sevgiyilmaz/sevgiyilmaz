@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **C#, .Net, Microservices**
 
-- 📝 I regularly write blogs about Cyber Security on [https://medium.com/@sevgiyilmaz](https://medium.com/@sevgiyilmaz)
+- 📝 I regularly write blogs on [https://medium.com/@sevgiyilmaz](https://medium.com/@sevgiyilmaz)
 
-- 💬 Ask me about **Cyber Security**
+- 💬 Ask me about **Cyber Security, Artificial Intelligence**
 
 - 📫 How to reach me **sevgiyilmaz2112@gmail.com**
 
